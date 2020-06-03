@@ -19,5 +19,5 @@ label-song id-spectrum image id
 For example: deep_house-792-001, "deep_house" is label, "792" is song id, "001" is spectrum image id.
 
 # 4. If you want to use this dataset for research, you can download it from this link (Baidu SkyDrive)：
-link：https://pan.baidu.com/s/1z9WMdJxzLZ01ACiYsINEBg 
-Password：2qui
+link：https://pan.baidu.com/s/1bvZvjhs2aMPMGpKvF7Q2ww 
+Password：yn1m
